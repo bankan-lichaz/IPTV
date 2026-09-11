@@ -102,3 +102,17 @@
 七星关综合,https://play-hwgy.vzan.com/slowlive/619332743506513871/live.m3u8
 望谟综合,video://http://h5.wnwmapp.cn/#/subPackages/index/live-video?bizId=37&id=1670464627802144&mediaType=8
 三都综合,https://cmsrtmp.todcy.cn/live/dcsd/7d313580bfea4e48bd72133f8c0a5206/7d313580bfea4e48bd72133f8c0a5206.m3u8
+
+海南网页,#genre#
+海南卫视,video://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=13
+海南卫视,video://http://tc.hnntv.cn/
+三沙卫视,video://https://www.hnntv.cn/web_code/channel/sanshaTv.html?referPage=home
+海南自贸,video://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=1
+海南新闻,video://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=3
+海南公共,video://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=4
+海南少儿,video://https://service-app.hnntv.cn/AppEngine/appinfo/STHaiNan/share.html?userId=1&appId=STHaiNan&userId=1&channelId=7
+海南慢直播实时海南,video://https://service-app.hnntv.cn/AppEngine/App/Share?appId=STHaiNan&userId=1&liveShowId=2283
+海口新闻综合,https://live2.hkbtv.cn/live/tv1001.m3u8
+海口生活娱乐,https://live2.hkbtv.cn/live/tv2502.m3u8
+海口城乡经济,https://live2.hkbtv.cn/live/tv2503.m3u8
+
